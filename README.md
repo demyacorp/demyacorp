@@ -18,13 +18,9 @@
 ## Sobre Nosotros :busts_in_silhouette::
 
 - :computer: Somos un grupo de 5 programadores freelancers que colaboran bajo el nombre de Demya Corporation.
-
-  
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+- :rocket: Trabajamos para ofrecer soluciones informáticas que impulsen el éxito de nuestros clientes.
+- :thumbsup: Valoramos la colaboración estrecha con nuestros clientes para garantizar una comprensión completa de sus objetivos y requisitos
+- :mag_right: Nos esforzamos constantemente en todo lo que hacemos y nos mantenemos al día con las últimas tendencias y tecnologías del mercado.
 
 <br>
 
