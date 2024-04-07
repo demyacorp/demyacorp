@@ -17,7 +17,7 @@
 
 ## Sobre Nosotros :busts_in_silhouette::
 
-- :computer: Somos un grupo de 5 programadores freelancers que colaboran bajo el nombre de Demya Corporation.
+- :computer: Somos un grupo de 5 programadores freelancer que colaboran bajo el nombre de Demya Corporation.
 - :rocket: Trabajamos para ofrecer soluciones informáticas que impulsen el éxito de nuestros clientes.
 - :thumbsup: Valoramos la colaboración estrecha con nuestros clientes para garantizar una comprensión completa de sus objetivos y requisitos
 - :mag_right: Nos esforzamos constantemente en todo lo que hacemos y nos mantenemos al día con las últimas tendencias y tecnologías del mercado.
